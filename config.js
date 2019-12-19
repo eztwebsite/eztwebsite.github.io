@@ -24,6 +24,30 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'Myhabitat',
+            title: 'My Habitat',
+            image: 'eztwebsite.github.io/images/myhabitat.jpg',
+            description: 'First project under EZT Land Sdn Bhd. Total of 16 units were sold, by the First Quarter of 2012. The developer for this project is SCENIC POINT DEVELOPMENT SDN BHD.',
+            location: {
+                center: [101.72040, 3.16270],
+                zoom: 17.22,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
             id: 'Binjai8',
             title: 'Binjai 8',
             image: 'eztwebsite.github.io/images/BINJAI 8.jpg',
