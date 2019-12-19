@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/mapbox/light-v10',
+    style: 'mapbox://styles/mapbox/outdoors-v11',
     accessToken: 'pk.eyJ1IjoiZXp0d2Vic2l0ZSIsImEiOiJjazRjMmpwZGgwanljM21ydmw3OHg4MWw2In0._HvmVmhJ_QxLugWNGCC6-Q',
     showMarkers: true,
     theme: 'light',
@@ -31,8 +31,8 @@ var config = {
             location: {
                 center: [101.71754, 3.15852],
                 zoom: 16.48,
-                pitch: 45,
-                bearing: -40
+                pitch: 60,
+                bearing: 0
             },
             onChapterEnter: [
                 // {
@@ -50,7 +50,7 @@ var config = {
         {
             id: 'slug-style-id',
             title: 'The Pearl',
-            image: 'C:/Users/HP/Documents/GitHub/eztwebsite.github.io/images/the pearl.jpg',
+            image: 'images/the pearl.jpg',
             description: 'Total of 57 units were sold by the Second Quarter of 2012. The developer for this project is FLORA BLISS PROPERTY DEVELOPMENT SDN.BHD.',
             location: {
                 center: [101.71712, 3.15162],
