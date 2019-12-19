@@ -26,7 +26,7 @@ var config = {
         {
             id: 'Binjai8',
             title: 'Binjai 8',
-            image: 'C:/Users/HP/Documents/GitHub/eztwebsite.github.io/images/BINJAI 8.jpg',
+            image: 'images/BINJAI 8.jpg',
             description: 'First project under EZT Land Sdn Bhd. Total of 45 units were sold by the First Quarter of 2012. The developer for this project is SCENIC POINT DEVELOPMENT SDN BHD.',
             location: {
                 center: [101.71754, 3.15852],
