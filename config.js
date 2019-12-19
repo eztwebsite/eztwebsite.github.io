@@ -12,7 +12,7 @@ var config = {
         {
             id: 'other-identifier',
             title: 'EZT Group',
-            image: 'C:/Users/HP/Documents/GitHub/eztwebsite.github.io/images/eztgroup.jpeg',
+            image: 'images/eztgroup.jpeg',
             description: 'We have mamanaged more than 1,000 properties for our foreigner investors. Our services include leasing, sub sales and all property management services. We strive to provide a hassle-free services, providing one stop services to our foreign investors. We also have a team of dedicated customer service hotline exclusively to handle inquiries and complaints from tenants within 5 working days. Scroll down to see the projects.',
             location: {
                 center: [101.69332, 3.06921],
