@@ -2,7 +2,7 @@ var config = {
     style: 'mapbox://styles/mapbox/outdoors-v11',
     accessToken: 'pk.eyJ1IjoiZXp0d2Vic2l0ZSIsImEiOiJjazRjMmpwZGgwanljM21ydmw3OHg4MWw2In0._HvmVmhJ_QxLugWNGCC6-Q',
     showMarkers: true,
-    theme: 'dark',
+    theme: 'light',
     alignment: 'left',
     title: 'The units sold by EZT Group',
     subtitle: 'These are all the dream homes that we have delivered to our lovey clients',
