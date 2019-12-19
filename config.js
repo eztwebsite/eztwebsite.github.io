@@ -26,7 +26,7 @@ var config = {
         {
             id: 'Binjai8',
             title: 'Binjai 8',
-            image: 'images/BINJAI 8.jpg',
+            image: 'eztwebsite.github.io/images/BINJAI 8.jpg',
             description: 'First project under EZT Land Sdn Bhd. Total of 45 units were sold by the First Quarter of 2012. The developer for this project is SCENIC POINT DEVELOPMENT SDN BHD.',
             location: {
                 center: [101.71754, 3.15852],
@@ -50,7 +50,7 @@ var config = {
         {
             id: 'slug-style-id',
             title: 'The Pearl',
-            image: 'images/the pearl.jpg',
+            image: 'eztwebsite.github.io/images/the pearl.jpg',
             description: 'Total of 57 units were sold by the Second Quarter of 2012. The developer for this project is FLORA BLISS PROPERTY DEVELOPMENT SDN.BHD.',
             location: {
                 center: [101.71712, 3.15162],
