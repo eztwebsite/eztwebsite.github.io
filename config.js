@@ -10,7 +10,7 @@ var config = {
     footer: 'Source: source citations, etc.',
     chapters: [
         {
-            id: 'other-identifier',
+            id: 'eztgroup-company-identifier',
             title: 'EZT Group',
             image: 'eztwebsite.github.io/images/eztgroup.jpeg',
             description: 'We have mamanaged more than 1,000 properties for our foreigner investors. Our services include leasing, sub sales and all property management services. We strive to provide a hassle-free services, providing one stop services to our foreign investors. We also have a team of dedicated customer service hotline exclusively to handle inquiries and complaints from tenants within 5 working days. Scroll down to see the projects.',
@@ -81,6 +81,30 @@ var config = {
                 zoom: 16.48,
                 pitch: 60,
                 bearing: 0
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'Mirage',
+            title: 'Mirage',
+            image: 'eztwebsite.github.io/images/myhabitat.jpg',
+            description: 'Total of 31 units were sold by the second quarter of 2013. The developer for this project is PERSPEKTIF VISTA SDN.BHD .',
+            location: {
+                center: [101.71551, 3.16291],
+                zoom: 16.96,
+                pitch: 42.50,
+                bearing: -17.60
             },
             onChapterEnter: [
                 // {
