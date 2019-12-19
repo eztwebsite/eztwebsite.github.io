@@ -29,10 +29,10 @@ var config = {
             image: 'eztwebsite.github.io/images/BINJAI 8.jpg',
             description: 'First project under EZT Land Sdn Bhd. Total of 45 units were sold by the First Quarter of 2012. The developer for this project is SCENIC POINT DEVELOPMENT SDN BHD.',
             location: {
-                center: [101.71754, 3.15852],
-                zoom: 16.48,
-                pitch: 60,
-                bearing: 0
+                center: [101.71729, 3.15879],
+                zoom: 17.22,
+                pitch: 42.50,
+                bearing: -22.40
             },
             onChapterEnter: [
                 // {
