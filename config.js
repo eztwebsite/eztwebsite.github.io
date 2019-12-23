@@ -118,5 +118,29 @@ var config = {
                 // }
             ]
         },
+        {
+            id: 'pavilion hilltop',
+            title: 'Pavilion Hilltop',
+            image: 'eztwebsite.github.io/images/pavilionhilltop.jpg',
+            description: 'Total of 31 units were sold by the second quarter of 2013. The developer for this project is PERSPEKTIF VISTA SDN.BHD .',
+            location: {
+                center: [101.71551, 3.16291],
+                zoom: 16.96,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
     ]
 };
