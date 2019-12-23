@@ -5,16 +5,17 @@ var config = {
     theme: 'light',
     alignment: 'left',
     title: 'The units sold by EZT Group',
-    subtitle: 'These are all the dream homes that we have delivered to our lovey clients',
-    footer: 'Source: source citations, etc.',
+    subtitle: 'These are all the dream homes that we have delivered to our lovely clients',
+    footer: 'Made with <3 in MY',
+
     chapters: [
         {
             id: 'eztgroup-company-identifier',
             title: 'EZT Group',
             image: 'eztwebsite.github.io/images/eztgroup.jpeg',
-            description: 'We have managed more than 1,000 properties for our foreigner investors. Our services include leasing, sub sales and all property management services. We strive to provide a hassle-free services, providing one stop services to our foreign investors. We also have a team of dedicated customer service hotline exclusively to handle inquiries and complaints from tenants within 5 working days. Scroll down to see the projects.',
+            description: 'We have managed more than 1,500 properties for our foreigner investors. Our services include leasing, sub sales and all property management services. We strive to provide a hassle-free services, providing one stop services to our foreign investors. We also have a team of dedicated customer service hotline exclusively to handle inquiries and complaints from tenants within 5 working days. Scroll down to see the projects.',
             location: {
-                center: [101.69332, 3.06921],
+                center: [101.69475, 3.06919],
                 zoom: 16,
                 pitch: 40,
                 bearing: -40
