@@ -122,10 +122,34 @@ var config = {
             id: 'pavilion hilltop',
             title: 'Pavilion Hilltop',
             image: 'eztwebsite.github.io/images/pavilionhilltop.jpg',
-            description: 'Total of 31 units were sold by the second quarter of 2013. The developer for this project is PERSPEKTIF VISTA SDN.BHD .',
+            description: 'Total of 118 units were sold by the fourth quarter of 2013. The developer for this project is PERMATA CERMAT SDN.BHD .',
             location: {
-                center: [101.71551, 3.16291],
-                zoom: 16.96,
+                center: [101.65751, 3.16999],
+                zoom: 13,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'tribeca',
+            title: 'Tribeca',
+            image: 'eztwebsite.github.io/images/tribeca.jpg',
+            description: 'Total of 38 units were sold by the second quarter of 2014. The developer for this project is BAKTI DINAMIK SDN.BHD .',
+            location: {
+                center: [101.71581, 3.14660],
+                zoom: 16.72,
                 pitch: 42.50,
                 bearing: -17.60
             },
