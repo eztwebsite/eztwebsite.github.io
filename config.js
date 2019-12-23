@@ -4,8 +4,7 @@ var config = {
     showMarkers: true,
     theme: 'light',
     alignment: 'left',
-    title: 'The units sold by EZT Group',
-    subtitle: 'These are all the dream homes that we have delivered to our lovely clients',
+    title: 'Units sold by EZT Group',
     footer: 'Made with <3 in MY',
 
     chapters: [
