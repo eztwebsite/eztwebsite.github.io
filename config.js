@@ -168,14 +168,14 @@ var config = {
         },
         {
             id: 'dorsett',
-            title: 'Tribeca',
-            image: 'eztwebsite.github.io/images/tribeca.jpg',
-            description: 'Total of 38 units were sold by the second quarter of 2014. The developer for this project is BAKTI DINAMIK SDN.BHD .',
+            title: 'Dorsett Residence',
+            image: 'eztwebsite.github.io/images/dorsett.jpg',
+            description: 'Total of 37 units were sold by the second quarter of 2014. The developer for this project is DORSETT BUKIT BINTANG SDN.BHD .',
             location: {
-                center: [101.71581, 3.14660],
+                center: [101.71576, 3.14755],
                 zoom: 16.72,
                 pitch: 42.50,
-                bearing: -17.60
+                bearing: -39.20
             },
             onChapterEnter: [
                 // {
