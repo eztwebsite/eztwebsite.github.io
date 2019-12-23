@@ -286,5 +286,101 @@ var config = {
                 // }
             ]
         }, 
+        {
+            id: 'Vertical II',
+            title: 'Vertical II',
+            image: 'eztwebsite.github.io/images/vertical 2.jpg',
+            description: 'Total of 16 units were sold in 2015. The developer for this project is UOA GROUP.',
+            location: {
+                center: [101.66578, 3.11033],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        }, 
+        {
+            id: 'Imperio',
+            title: 'Imperio',
+            image: 'eztwebsite.github.io/images/Imperio.jpg',
+            description: 'Total of 187 units were sold. The developer for this project is HATTEN GROUP.',
+            location: {
+                center: [102.26107, 2.18220],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        }, 
+        {
+            id: 'Hatten square',
+            title: 'Hatten Square',
+            image: 'eztwebsite.github.io/images/hattensquare.jpg',
+            description: 'Total of 21 units were sold. The developer for this project is HATTEN GROUP.',
+            location: {
+                center: [102.25179, 2.18883],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        }, 
+        {
+            id: 'Ther Rise',
+            title: 'The Rise 喜来城',
+            image: 'eztwebsite.github.io/images/therise.jpg',
+            description: 'Total of 200 units were sold. The developer for this project is YEA SHIN.',
+            location: {
+                center: [102.19085, 2.21048],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        }, 
     ]
 };
