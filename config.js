@@ -365,7 +365,7 @@ var config = {
             description: 'Total of 200 units were sold. The developer for this project is YEA SHIN.',
             location: {
                 center: [102.19085, 2.21048],
-                zoom: 16.72,
+                zoom: 14.72,
                 pitch: 42.50,
                 bearing: -17.60
             },
