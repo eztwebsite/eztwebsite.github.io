@@ -166,5 +166,125 @@ var config = {
                 // }
             ]
         },
+        {
+            id: 'dorsett',
+            title: 'Tribeca',
+            image: 'eztwebsite.github.io/images/tribeca.jpg',
+            description: 'Total of 38 units were sold by the second quarter of 2014. The developer for this project is BAKTI DINAMIK SDN.BHD .',
+            location: {
+                center: [101.71581, 3.14660],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'Paviion suites',
+            title: 'Pavilion Suites',
+            image: 'eztwebsite.github.io/images/pavilionsuites.jpg',
+            description: 'Total of 157 units were sold by the fourth quarter of 2015. The developer for this project is URUSHARTA CEMERLANG(KL) SDN.BHD .',
+            location: {
+                center: [101.71234, 3.14879],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'Paviion ceylon hill',
+            title: 'Pavilion Ceylon Hill',
+            image: 'eztwebsite.github.io/images/pavilionceylonhill.jpg',
+            description: 'Total of 435 units in Tower A & C and 40 units in Tower B are being sold starting from the first quarter of 2016. The developer for this project is JELITA ORIENTASI SDN.BHD .',
+            location: {
+                center: [101.70550, 3.14919],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'Pavilion Embassy',
+            title: 'Pavilion Embassy',
+            image: 'eztwebsite.github.io/images/pavilionembassy.jpg',
+            description: 'Total of 318 units in Tower C and 126 units in Tower E are being sold starting from the second quarter of 2016. The developer for this project is PEDOMAN IKHTISAS SDN.BHD .',
+            location: {
+                center: [101.72348, 3.16075],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        }, 
+        {
+            id: 'Tropical Villa',
+            title: 'Tropical Villa',
+            image: 'eztwebsite.github.io/images/tropicalvilla.jpg',
+            description: 'Total of 64 units were sold starting from the fourth quarter of 2017. The developer for this project is B&G TROPICAL SDN.BHD, which is also a subsidiary company under EZT Group.',
+            location: {
+                center: [101.70015, 3.01749],
+                zoom: 16.72,
+                pitch: 42.50,
+                bearing: -17.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        }, 
     ]
 };
