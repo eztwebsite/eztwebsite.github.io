@@ -71,7 +71,7 @@ var config = {
             ]
         },
         {
-            id: 'slug-style-id',
+            id: 'the pearl',
             title: 'The Pearl',
             image: 'eztwebsite.github.io/images/the pearl.jpg',
             description: 'Total of 57 units were sold by the Second Quarter of 2012. The developer for this project is FLORA BLISS PROPERTY DEVELOPMENT SDN.BHD.',
@@ -95,12 +95,12 @@ var config = {
             ]
         },
         {
-            id: 'slug-style-id',
+            id: 'casa residency',
             title: 'Casa residency',
             image: 'eztwebsite.github.io/images/casaresidency.jpg',
             description: "Casa Residency is a residential development centrally located in Pudu and was completed in October 2012.It is an iconic retreat of urbanite's dream developed by Mutiara Johan Project Management which is a subsidiary of Mutiara Johan Group.",
             location: {
-                center: [101.70465, 3.14179],
+                center: [101.70469, 3.14175],
                 zoom: 16.91,
                 pitch: 60,
                 bearing: -41.60
