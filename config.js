@@ -95,6 +95,30 @@ var config = {
             ]
         },
         {
+            id: 'slug-style-id',
+            title: 'Casa residency',
+            image: 'eztwebsite.github.io/images/casaresidency.jpg',
+            description: "Casa Residency is a residential development centrally located in Pudu and was completed in October 2012.It is an iconic retreat of urbanite's dream developed by Mutiara Johan Project Management which is a subsidiary of Mutiara Johan Group.",
+            location: {
+                center: [101.70465, 3.14179],
+                zoom: 16.91,
+                pitch: 60,
+                bearing: -41.60
+            },
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
             id: 'Mirage',
             title: 'Mirage',
             image: 'eztwebsite.github.io/images/myhabitat.jpg',
