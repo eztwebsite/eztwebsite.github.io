@@ -12,7 +12,7 @@ var config = {
             id: 'eztgroup-company-identifier',
             title: 'EZT Group',
             image: 'eztwebsite.github.io/images/eztgroup.jpeg',
-            description: 'We have managed more than 1,500 properties for our foreigner investors. Our services include leasing, sub sales and all property management services. We strive to provide a hassle-free services, providing one stop services to our foreign investors. We also have a team of dedicated customer service hotline exclusively to handle inquiries and complaints from tenants within 5 working days. Scroll down to see the projects.',
+            description: 'EZT Group was established in 2004, we are among the top property marketing agencies based in Kuala lumpur, Malaysia. We strive to become one of the leading Online to Offline Real Estate Investment companies in Malaysia by 2030.',
             location: {
                 center: [101.69475, 3.06919],
                 zoom: 16,
@@ -285,7 +285,7 @@ var config = {
                 //     opacity: 0
                 // }
             ]
-        }, 
+        },
         {
             id: 'Tropical Villa',
             title: 'Tropical Villa',
@@ -309,7 +309,7 @@ var config = {
                 //     opacity: 0
                 // }
             ]
-        }, 
+        },
         {
             id: 'Vertical II',
             title: 'Vertical II',
@@ -333,7 +333,7 @@ var config = {
                 //     opacity: 0
                 // }
             ]
-        }, 
+        },
         {
             id: 'Imperio',
             title: 'Imperio',
@@ -357,7 +357,7 @@ var config = {
                 //     opacity: 0
                 // }
             ]
-        }, 
+        },
         {
             id: 'Hatten square',
             title: 'Hatten Square',
@@ -381,7 +381,7 @@ var config = {
                 //     opacity: 0
                 // }
             ]
-        }, 
+        },
         {
             id: 'Ther Rise',
             title: 'The Rise 喜来城',
@@ -405,6 +405,6 @@ var config = {
                 //     opacity: 0
                 // }
             ]
-        }, 
+        },
     ]
 };
