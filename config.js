@@ -12,7 +12,7 @@ var config = {
             id: 'eztgroup-company-identifier',
             title: 'EZT Group',
             image: 'eztwebsite.github.io/images/eztgroup.jpeg',
-            description: 'EZT Group was established in 2004, we are among the top property marketing agencies based in Kuala lumpur, Malaysia. We strive to become one of the leading Online to Offline Real Estate Investment companies in Malaysia by 2030.',
+            description: 'With over 15 years of experience in the luxury tours sector and 13 years in the property management sector, EZT Group has a thorough understanding of the needs and requirements of the overseas and international markets. EZT has successfully marketed and sold projects comprising luxury residential properties with GDV (Gross Development Value) in excess of an estimated RM 5.3 billion in the past few years.',
             location: {
                 center: [101.69475, 3.06919],
                 zoom: 16,
