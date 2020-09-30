@@ -14,7 +14,7 @@ var config = {
             image: 'eztwebsite.github.io/images/eztgroup.jpeg',
             description: 'With over 15 years of experience in the luxury tours sector and 13 years in the property management sector, EZT Group has a thorough understanding of the needs and requirements of the overseas and international markets. EZT has successfully marketed and sold projects comprising luxury residential properties with GDV (Gross Development Value) in excess of an estimated RM 5.3 billion in the past few years.',
             location: {
-                center: [101.801729, 2.522334],
+                center: [101.694783, 3.069232],
                 zoom: 16,
                 pitch: 40,
                 bearing: -40
