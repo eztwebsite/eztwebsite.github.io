@@ -265,7 +265,7 @@ var config = {
         {
             id: 'Pavilion Embassy',
             title: 'Pavilion Embassy',
-            image: 'eztwebsite.github.io/images/pavilionembassy.jpg',
+            image: 'eztwebsite.github.io/images/PavilionEmbassy.jpg',
             description: 'Total of 318 units in Tower C and 126 units in Tower E are being sold starting from the second quarter of 2016. The developer for this project is PEDOMAN IKHTISAS SDN.BHD .',
             location: {
                 center: [101.72348, 3.16075],
