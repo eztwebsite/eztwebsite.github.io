@@ -11,7 +11,7 @@ var config = {
         {
             id: 'eztgroup-company-identifier',
             title: 'EZT Group',
-            image: 'eztwebsite.github.io/images/eztgroup.jpeg',
+            image: 'eztwebsite.github.io/images/eztgroup.jpg',
             description: 'With over 15 years of experience in the luxury tours sector and 13 years in the property management sector, EZT Group has a thorough understanding of the needs and requirements of the overseas and international markets. EZT has successfully marketed and sold projects comprising luxury residential properties with GDV (Gross Development Value) in excess of an estimated RM 5.3 billion in the past few years.',
             location: {
                 center: [101.694783, 3.069232],
@@ -145,7 +145,7 @@ var config = {
         {
             id: 'pavilion hilltop',
             title: 'Pavilion Hilltop',
-            image: 'eztwebsite.github.io/images/pavilionhilltop.jpg',
+            image: 'eztwebsite.github.io/images/pavilionhilltop.JPG',
             description: 'Total of 118 units were sold by the fourth quarter of 2013. The developer for this project is PERMATA CERMAT SDN.BHD .',
             location: {
                 center: [101.65751, 3.16999],
